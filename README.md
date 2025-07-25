@@ -8,3 +8,11 @@ Link to landing page to download: https://v0-new-project-dwifajxft6o.vercel.app/
 ![login_demo - Made with Clipchamp](https://github.com/user-attachments/assets/9a653ae4-341b-44e5-ae23-e786b42808d8)
 
 Note: This repository has no source code as this is a full application I will charge for and will be available for subscription. Please feel free to check it out at the landing page.
+
+## Author
+
+Alexander Mueller
+
+- GitHub: [alexmueller07](https://github.com/alexmueller07)
+- LinkedIn: [Alexander Mueller](https://www.linkedin.com/in/alexander-mueller-021658307/)
+- Email: amueller.code@gmail.com
